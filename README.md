@@ -9,7 +9,7 @@ Statitsically speaking, these kinds of inspiring, formative experiences are typi
 - 🔨 I'm currently working on Triple Triad, a card game based on the Playstation classic _Final Fantasy 8_
 - 🌱 I’m currently reinforcing my knowledge of Vanilla Javascript
 - ⚡️ Fun fact: I believe play, whether that's during elementary school recess, wrestling, over a board game, or on the latest 4K television, can change the world
-- 📖 I write blog articles that walks through code or merely muses over it over at [Medium](https://medium.com/@nickechevarria)
+- 📖 I write blog articles exploring the world of code over at [Medium](https://medium.com/@nickechevarria)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nicholasechevarria/) || [Twitter](https://twitter.com/_nickechevarria) || nick.echev@gmail.com
 
 I'm a huge fan of collaboration, so why don't we see if we're a good fit? Don't hesitate to reach out ✌🏾  
