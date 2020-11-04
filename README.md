@@ -15,9 +15,8 @@ Statitsically speaking, these kinds of inspiring, formative experiences are typi
 I love to collaborate. Why don't we see if we're a good fit? Don't hesitate to reach out! ✌🏾  
 <!--START_SECTION:waka-->
 ```text
-JavaScript   1 hr 28 mins    ███████████████████████▒░   93.66 % 
-Ruby         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-HTML         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+JavaScript   1 hr 19 mins    ████████████████████████░   96.11 % 
+HTML         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
 ```
 <!--END_SECTION:waka-->
 
