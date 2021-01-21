@@ -10,7 +10,7 @@ Statisically speaking, these kinds of inspiring, formative experiences are typic
 - 🌱 [I’m currently reinforcing my knowledge of Vanilla Javascript](https://eloquentjavascript.net/)
 - ⚡️ Fun fact: I believe play, whether that's during elementary school recess, wrestling, over a board game, or on the latest 4K television, can change the world
 - 📖 I write blog articles exploring the world of code over at [Medium](https://medium.com/@nickechevarria)
-- 📫 Reach out!! [LinkedIn](https://www.linkedin.com/in/nicholasechevarria/) || [Twitter](https://twitter.com/_nickechevarria) || nick.echev@gmail.com
+- 📫 Reach out!! [LinkedIn](https://www.linkedin.com/in/nicholasechevarria/) || [Twitter](https://twitter.com/_nickechevarria) || [Email](nick.echev@gmail.com)
 
 I love to collaborate. Why don't we see if we're a good fit? Don't hesitate to reach out! ✌🏾  
 <!--START_SECTION:waka-->
