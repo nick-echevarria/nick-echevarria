@@ -1,13 +1,13 @@
-👋🏾 Hey there!👋🏾
+👋🏾 Hey there?! 👋🏾
 
-My name is Nicholas Echevarria, but call me Nick! I'm a software engineer and a writer. 
+I'm a Brooklyn native whose curiosity leads me around the world, a curiosity ignited by my exposure to video games, computers, and the internet when I was younger. Since then, I’m lucky to have gone on many adventures both real and digital while teaching and freelancing in countries like China and Spain, eventually working in creative production back in NYC. 
 
-I'm a Brooklyn native whose curiosity has led me around the world, a curiosity that was fueled and shaped by the advent of and access to the internet and video gaming at a young age. As a result, I’m lucky to have experienced a wide variety of adventures both physical and digital, from teaching English in places like Spain and China to working hospitality at some of the most popular venues in New York City, all the while nurturing a copywriting and content writing career over eight years. 
+In 2020, I attended the Flatiron School's coding immersive and took my first leap into the tech industry, following that up with a stint at Infosys and then another immersive, this time at Codesmith. All the while, I built and participated in multiple open source projects with a focus on exploring new technologies and interesting problems. 
 
-Statisically speaking, these kinds of inspiring, formative experiences are typically not in reach for someone with my background. This is why I'm a software engineer: to challenge myself, better my surroundings, and better those I care for through the power of code. 
+I'm a software engineer for a few key reasons: to challenge myself and continue my journey as a lifelong learner, and to better the circumstances of those people and communities I care deeply for.
 
 - 🔨 I'm currently working on [Zurau](https://github.com/oslabs-beta/zurau), a full suite Kafka monitoring and notification suite
-- 🌱 I’m currently reinforcing my knowledge of software engineering by finishing up a software immersive
+- 🌱 I’m currently reinforcing my knowledge of software engineering by finishing up a software immersive experience at Codesmith
 - ⚡️ I believe play, whether that's during elementary school recess, wrestling, over a board game, or on the latest 4K television, can change the world
 - 📖 I write blog articles exploring the world of code over at [Medium](https://medium.com/@nickechevarria)
 - 📫 Reach out!! [LinkedIn](https://www.linkedin.com/in/nicholasechevarria/) || [Twitter](https://twitter.com/_nickechevarria) || [Email](nick.echev@gmail.com)
