@@ -1,5 +1,3 @@
-👋🏾 Hey there?! 👋🏾
-
 Software engineer with demonstrated ability to collaborate, identify issues and execute solutions. Currently working on a number of open-source projects using React, Redux, Node.js, Express, Javascript/Typescript, non-relational and relational databases, Jest, and more.
 
 My previous experiences as a website designer, writer, production professional, marketer, and educator saw me create websites and content for clients using no-code solutions, utilize digital tools to orchestrate video productions for creative agencies, and integrate digital tools in teaching English to over 500+ students internationally in Spain and China -- delivering over 5000+ speaking and presentation hours over that time.
