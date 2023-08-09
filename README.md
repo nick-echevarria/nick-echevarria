@@ -1,14 +1,14 @@
-Software engineer with demonstrated ability to collaborate, identify issues and execute solutions. Currently working on a number of open-source projects using React, Redux, Node.js, Express, Javascript/Typescript, non-relational and relational databases, Jest, and more.
+A versatile software engineer who enjoys working on challenging, meaningful problems. Interested in the intersection of tech and design with a focus on sustainability, gaming, media, fashion, and fitness.
 
-My previous experiences as a website designer, writer, production professional, marketer, and educator saw me create websites and content for clients using no-code solutions, utilize digital tools to orchestrate video productions for creative agencies, and integrate digital tools in teaching English to over 500+ students internationally in Spain and China -- delivering over 5000+ speaking and presentation hours over that time.
+Experienced in Javascript/Typescript-based programming (React/Redux/Node/Express) and working with SQL/NoSQL databasing. Passionate about front-end development, clean code, empathetic communication and collaboration, and leading with curiosity. 
 
-Why don't we see if we're a good fit? Don't hesitate to reach out -- I love a good conversation ✌🏾
+When I'm not programming, I have a wide array of hobbies including practicing Spanish and Italian around NYC, pushing my running pace,  fixed-gear biking city streets, keeping up with film, TV & literature, playing lots of Street Fighter and Magic: The Gathering with friends, and practicing jiu-jitsu!
 
-- 🔨 I'm currently working on [Zurau](https://github.com/oslabs-beta/zurau), a full suite Kafka monitoring and notification suite
+- 🔨 I'm a co-creator of [KafkaPeek](https://github.com/oslabs-beta/KafkaPeek), a Kafka observability and notification suite for devs
 - 📖 I write blog articles exploring the world of code over at [Medium](https://medium.com/@nickechevarria)
 - 📫 Reach out!! [LinkedIn](https://www.linkedin.com/in/nicholasechevarria/) || [Email](nick.echev@gmail.com)
 
-I live for great ideas and collaboration. Why don't we see if we're a good fit? Don't hesitate to reach out! ✌🏾  
+I live for great ideas powered by even greater collaboration - why don't we see if we're a good fit? Don't hesitate to reach out! ✌🏾  
 
 
 
